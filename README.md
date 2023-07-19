@@ -9,7 +9,7 @@ The Collatz Sequence, also known as the 3n+1 problem, is an intriguing mathemati
 - Repeat the process, generating a new `n`, until `n` becomes 1.
 
 This repository provides a C code implementation to calculate the Collatz Sequence for a given positive integer and find the length of the sequence.
-
+Included an automated tester when you can set how many times you want to test the software!
 ## Usage
 
 1. Clone the repository to your local machine:
