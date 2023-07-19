@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689804876 source:c:\users\víctor melo\desktop\github\collatzconjecture\collatzconjetureautomatedtester\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
